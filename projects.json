@@ -103,30 +103,35 @@
         "description": "Hammer Source Engine",
         "about":{
             "intro": "King of the Hill Gamemode - Mansion Party",
-            "para": "This project, Perilous Pilgrim, is an exploration fantasy island with a detailed environment.  The player searches an abandoned village named peaceful farms,  with the help of UI interface elements to inform and guide the player.  Peaceful farms is the southern section of the island which holds secret caves  with a key to aid the players objective to reach the mountain peak.",
-            "para2": "The narrative is that the player is a pilgrim on a journey up the mountain to  complete their master's bidding. This mountain is the centre point of the island and  biggest which overlooks the player.",
-            "para3":"The main scope is to highlight my major skillsets such as level design skills  and environment, I also wanted to implement my programming skills: visual scripting and  technical programmer aspects. With that I designed this island to demonstrate these  skills."
+            "para": "This project is for direct feedback and improvement of skills from active playerbase, from the Team Fortess 2 community, that I am well experienced in myself. I chose this game, based on the dynamic and flexible team cast of heros/classes and their relationship with the level. I wanted to practise my skills with this game as not only would it show my attention to detail and design intent, but helpful and progressive advice from the community to develop this map to its best potential.",
+            "para2":"Goal: I want the map to be a interior and exterior option of choice, as tf2 classes have perks best showcased in situation areas on the map, using king of the hill gamemode, as I believe it best gives player interactions for this goal and for me to focus on the attention to detail in a centralised area.",
+            "para3":""
         },
         "images":{
-            "intro": [
-                "./style/assets/stonework2.PNG",
-                "./style/assets/stonework2.PNG",
-                "./style/assets/stonework2.PNG"
+            "mainGal": [
+                "./style/assets/FrontShot.PNG",
+                "./style/assets/tf2pro2.PNG",
+                "./style/assets/tf2pro3.PNG"
             ],
-            "slice": [
-                "./style/assets/stonework2.PNG",
-                "./style/assets/stonework2.PNG",
-                "./style/assets/stonework2.PNG"
+            "projSlice": [
+                "./style/assets/FrontShot.PNG",
+                "./style/assets/tf2pro2.PNG",
+                "./style/assets/tf2pro3.PNG"
             ],
-            "prelan": [
-                "./style/assets/stonework2.PNG",
-                "./style/assets/stonework2.PNG",
-                "./style/assets/stonework2.PNG"
+            "preGal": [
+                "./style/assets/FrontShot.PNG",
+                "./style/assets/tf2pro2.PNG",
+                "./style/assets/tf2pro3.PNG"
             ],
-            "optional": [
-                "./style/assets/stonework2.PNG",
-                "./style/assets/stonework2.PNG",
-                "./style/assets/stonework2.PNG"
+            "devGal": [
+                "./style/assets/FrontShot.PNG",
+                "./style/assets/tf2pro2.PNG",
+                "./style/assets/tf2pro3.PNG"
+            ],
+            "beautyGal": [
+                "./style/assets/FrontShot.PNG",
+                "./style/assets/tf2pro2.PNG",
+                "./style/assets/tf2pro3.PNG"
             ]
         },
         "palette":{
